@@ -1,0 +1,11 @@
+name,email,phone,age,active
+John Mayer,john.mayer@gmail.com,+628123456789,47,TRUE
+Taylor Swift,taylor.swift@gmail.com,+628123456789,34,FALSE
+Harry Potter,harry.potter@gmail.com,+628123456789,11,TRUE
+Hermione Granger,hermione.granger@gmail.com,+628123456789,11,TRUE
+Ron Weasley,ron.weasley@gmail.com,+628123456789,11,FALSE
+Albus Dumbledore,albus.dumbledore@gmail.com,+628123456789,110,FALSE
+Sirius Black,sirius.black@gmail.com,+628123456789,34,TRUE
+Dolores Umbridge,dolores.umbridge@gmail.com,+628123456789,40,FALSE
+Severus Snape,severus.snape@gmail.com,+628123456789,31,FALSE
+Remus Lupin,remus.lupin@gmail.com,+628123456789,38,TRUE
